@@ -1,0 +1,17 @@
+.container {
+  max-width: 1440px;
+  margin-inline: auto;
+  background-color: #1e213f;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons {
+  background-color: #161932;
+  padding: 8px;
+  border-radius: 50%;
+}
